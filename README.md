@@ -2,7 +2,7 @@
 
 ---
 
-### Alternatives
+### POSSIBILITATS
 
 * **Experiments Simulats:** Permet triar i configurar diferents tipus d'experiències atzaroses (com ara el llançament de monedes o l'extracció de boles de colors d'una urna amb/sense reposició).
 * **Configuració Paramètrica:** Permet definir els paràmetres inicials de l'experiment (nombre de boles de cada color, quantitat de monedes, etc.) i triar el nombre d'intents o repeticions a executar (des d'intents individuals fins a simulacions massives).
